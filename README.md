@@ -39,7 +39,7 @@ This project is for educational and ethical testing purposes only. Using keylogg
 - Uses the pynput library for keyboard input handling
 
 # Requirements
-- Python 3.x
+- Python 3.
 - pynput library: pip install pynput
 # Usage
 1. Clone this repository: git clone https://github.com/UddiptaSaikia/Keylogger
