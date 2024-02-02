@@ -4,7 +4,7 @@
 This repository contains a simple Python keylogger that captures keystrokes and stores them in a text file. It's intended for learning about keylogging techniques and security awareness.
 
 # Note
-This project is for educational and ethical testing purposes only. Using keyloggers without explicit consent is illegal and unethical. Do not use this software for malicious purposes. I have used this video from youtube for reference : https://youtu.be/eLLFi5isqMc?si=7OvkVJyzG1xHsJMa
+This project is for educational and ethical testing purposes only. Using keyloggers without explicit consent is illegal and unethical. Do not use this software for malicious purposes.
 
 # Features
 - Captures all keystrokes, including special keys (backspace, space, Enter, etc.)
